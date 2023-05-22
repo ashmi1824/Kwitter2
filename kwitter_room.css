@@ -1,0 +1,10 @@
+body{
+    background:linear-gradient(lightcyan,lightpink,lavender,rgb(189, 245, 189), rgb(255, 253, 122),rgb(250, 165, 165));
+}
+#room_name{
+    width:50%;
+    height: 4%;
+    border-radius: 20px;
+    border:3px black solid;
+    color:mediumblue;
+}

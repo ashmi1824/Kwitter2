@@ -1,0 +1,45 @@
+
+    
+
+label{
+    font-weight: 200;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: lavender;
+    border:2px solid black;
+    border-radius: 10px;
+}
+#kwitter{
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    background-color: rgb(209, 255, 209);
+
+}
+body{
+    background-image: url(black.jpg);
+    
+    
+    
+    
+}
+h3{
+    color: blueviolet;
+    background-color: lightcyan;
+    border:2px solid black;
+    
+    
+
+}
+h4{
+    background-color: lightpink;
+    border:2px solid black;
+}
+#coffee{
+    float: left;
+    height: 90%;
+    width: 55%;
+}
+
+
+
